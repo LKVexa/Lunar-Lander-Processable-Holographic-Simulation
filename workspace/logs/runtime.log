@@ -1,0 +1,15 @@
+TIFF-GIF-HOLO persistent boot log
+Started: Tue 10/06/2026 20:59:48.11
+Carrier format: gif
+2026-10-06T20:59:55.2827723-07:00  === TIFF-GIF-HOLO session 2026-10-06T20:59:55.2746845-07:00 ===
+2026-10-06T20:59:55.2827723-07:00  Process start: "C:\Users\russe\Downloads\Lunar127_Showcase_0.3.1_TIFF_GIF_PROCESSABLE_HOLOGRAM_HOTFIX4\Lunar127_Showcase_0.3.1_TGIF_HOTFIX4\harness\TIFFGifHoloHarness.exe"  --carrier "C:\Users\russe\Downloads\Lunar127_Showcase_0.3.1_TIFF_GIF_PROCESSABLE_HOLOGRAM_HOTFIX4\Lunar127_Showcase_0.3.1_TGIF_HOTFIX4\workspace\current.gif" --seed "C:\Users\russe\Downloads\Lunar127_Showcase_0.3.1_TIFF_GIF_PROCESSABLE_HOLOGRAM_HOTFIX4\Lunar127_Showcase_0.3.1_TGIF_HOTFIX4\cartridge\Lunar127_Showcase_0.3.1_PROCESSABLE.gif" --log "C:\Users\russe\Downloads\Lunar127_Showcase_0.3.1_TIFF_GIF_PROCESSABLE_HOLOGRAM_HOTFIX4\Lunar127_Showcase_0.3.1_TGIF_HOTFIX4\workspace\logs\runtime.log" --no-loopback
+2026-10-06T20:59:55.2976358-07:00  BOOT-STAGE 1/5: authoritative carrier path resolved: C:\Users\russe\Downloads\Lunar127_Showcase_0.3.1_TIFF_GIF_PROCESSABLE_HOLOGRAM_HOTFIX4\Lunar127_Showcase_0.3.1_TGIF_HOTFIX4\workspace\current.gif
+2026-10-06T20:59:55.2976358-07:00  BOOT-STAGE 2/5: decoding carrier and constructing image-resident runtime
+2026-10-06T20:59:55.8262065-07:00  BOOT-STAGE 3/5: runtime snapshot ready
+2026-10-06T20:59:55.8613247-07:00  BOOT-STAGE 4/5: WinForms shell constructed
+2026-10-06T20:59:55.8613247-07:00  BOOT-STAGE 5/5: entering GUI message loop
+2026-10-06T20:59:55.9588101-07:00  GUI visible; enabling image execution
+2026-10-06T20:59:55.9588101-07:00  Image quantum scheduler started after GUI became visible
+2026-10-06T21:06:07.1971889-07:00  GUI close requested: UserClosing
+2026-10-06T21:06:07.2594027-07:00  GUI message loop exited normally
+Evaluator exit code: 0

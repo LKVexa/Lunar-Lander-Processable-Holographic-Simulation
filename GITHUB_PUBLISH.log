@@ -1,0 +1,58 @@
+================================================================
+Lunar127 GitHub Publish
+Started: Tue 10/06/2026 21:13:38.00
+Root: C:\Users\russe\Downloads\Lunar127_Showcase_0.3.1_TIFF_GIF_PROCESSABLE_HOLOGRAM_HOTFIX4\Lunar127_Showcase_0.3.1_TGIF_HOTFIX4
+Remote: https://github.com/LKVexa/Lunar-Lander-Processable-Holographic-Simulation.git
+================================================================
+git version 2.55.0.windows.3
+Commit identity: RUSSELL PHILIP SMITHSON <russellsmithson77@outlook.com>
+warning: in the working copy of 'CARTRIDGE_INVENTORY.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'HOTFIX2.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'HOTFIX2_VALIDATION.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'HOTFIX3.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'HOTFIX3_VALIDATION.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'HOTFIX4.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'HOTFIX4_STATIC_VALIDATION.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'HOTFIX4_VALIDATION.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'REFERENCE_VALIDATION.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'SHA256SUMS.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'TIFF_GIF_FORMAT.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'VALIDATION.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'VALIDATION.md', LF will be replaced by CRLF the next time Git touches it
+A  BOOT.cmd
+A  BOOT_DIRECT.cmd
+A  BOOT_LOOPBACK.cmd
+A  BOOT_SAFE.cmd
+A  BUILD_HARNESS.cmd
+A  CARTRIDGE_INVENTORY.json
+A  DIAGNOSE.cmd
+AM GITHUB_PUBLISH.log
+A  HOTFIX1.md
+A  HOTFIX2.md
+A  HOTFIX2_VALIDATION.md
+A  HOTFIX3.md
+A  HOTFIX3_VALIDATION.md
+A  HOTFIX4.md
+A  HOTFIX4_STATIC_VALIDATION.json
+A  HOTFIX4_VALIDATION.md
+A  INSPECT.cmd
+A  PUSH_LUNAR127_TO_GITHUB_FIXED.cmd
+A  README.md
+A  REFERENCE_VALIDATION.json
+A  RESET_CURRENT.cmd
+A  SHA256SUMS.txt
+A  TIFF_GIF_FORMAT.md
+A  VALIDATION.json
+A  VALIDATION.md
+A  VERIFY.cmd
+A  cartridge/Lunar127_Showcase_0.3.1_PROCESSABLE.gif
+A  cartridge/Lunar127_Showcase_0.3.1_PROCESSABLE.tiff
+A  harness/TIFFGifHoloHarness.cs
+A  harness/TIFFGifHoloHarness.exe
+A  harness/TIFFGifHoloTool.exe
+A  workspace/current.gif
+A  workspace/current.gif.next.write
+A  workspace/current.gif.previous
+A  workspace/logs/build.log
+A  workspace/logs/runtime.log
+ERROR: git commit failed.
